@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="81164857339148"
+    token="-405697954272132271" >
+
+    <task
+        name="javac"
+        duration="390" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="142" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="/Users/Naqib/AndroidStudioProjects/Parkchester Jame Masjid Radio/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="81164857339148" >
+        <artifact
+            location="/Users/Naqib/AndroidStudioProjects/Parkchester Jame Masjid Radio/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

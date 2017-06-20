@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Naqib/AndroidStudioProjects/Parkchester Jame Masjid Radio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b94ec136f8019d92747515b75015bc92342a3fa0">
+        <dex dex="/Users/Naqib/AndroidStudioProjects/Parkchester Jame Masjid Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0c8917fc032acd8477e42136e4a364d7e549062/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Naqib/AndroidStudioProjects/Parkchester Jame Masjid Radio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="62b357564b0c97709723587ebd19b45962c2d62e">
+        <dex dex="/Users/Naqib/AndroidStudioProjects/Parkchester Jame Masjid Radio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b192055d00528a15e45f2c26e20596ac0a0bf547/classes.dex" />
+    </item>
+
+</items>

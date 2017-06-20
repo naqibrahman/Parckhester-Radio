@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parkchester Jame Masjid Radio</string>
+    <string name="default_station">http://192.240.102.133:12259/xstream</string>
+    <string name="notification_body">Live Stream</string>
+    <string name="notification_text">Parkchester Jame Masjid Radio is Streaming!</string>
+    <string name="notification_title">ParkChester Jame Masjid Radio</string>
+    <string name="playlist_null">The provided playlist was invalid: </string>
+    <string name="service_connection_error">Error connecting to the service: </string>
+</resources>
